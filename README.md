@@ -1,4 +1,8 @@
-# Test
+# Loader Loading
+![image](https://user-images.githubusercontent.com/88857186/202400450-702be9e5-d95b-49ac-85de-05937809b886.png)
+
+# After Data Load
+![image](https://user-images.githubusercontent.com/88857186/202400238-51056262-0a38-49bc-a309-6c29621e22ce.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
