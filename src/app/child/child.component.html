@@ -1,0 +1,23 @@
+<div class="container py-5">
+  <div class="row g-2">
+    <div class="col-sm-6 col-md-3" *ngFor="let item of data">
+      <div class="card">
+        <img
+          src="{{ item?.images[0] }}"
+          class="card-img-top"
+          width="200px"
+          height="250px"
+          alt="test"
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ item?.title }}</h5>
+          <p class="card-text">
+            {{ item?.description }}
+          </p>
+          <hr />
+          <a href="#" class="btn btn-primary">Buy</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
